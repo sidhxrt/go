@@ -1,1 +1,15 @@
 ### go
+
+
+commands:
+
+
+go mod init github.com/sidhxrt/hello
+(or)
+go mod init hello     // similar to npm init
+
+
+instal "go" tool in vscode(extention) to get intellisense for go files
+
+
+go run main.go    (we are just running the file, we are not building it. so we wont get any executables that we can execute)
